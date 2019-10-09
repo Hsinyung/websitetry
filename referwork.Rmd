@@ -1,7 +1,5 @@
 ---
 title: "參考作品"
-author: "Joey"
-date: "2019/10/8"
 output: html_document
 ---
 

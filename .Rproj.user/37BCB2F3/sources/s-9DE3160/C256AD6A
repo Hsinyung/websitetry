@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570541924084.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "239729068",
+    "id" : "C256AD6A",
+    "lastKnownWriteTime" : 1570587628,
+    "last_content_update" : 1570587628790,
+    "path" : "C:/RStudio/websitetry/info.Rmd",
+    "project_path" : "info.Rmd",
+    "properties" : {
+        "cursorPosition" : "5,4",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
