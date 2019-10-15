@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "346647116",
+    "hash" : "766957000",
     "id" : "F48FA64F",
-    "lastKnownWriteTime" : 1571038383,
-    "last_content_update" : 1571038383293,
+    "lastKnownWriteTime" : 1571114056,
+    "last_content_update" : 1571114056616,
     "path" : "C:/RStudio/websitetry/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "4,73",
+        "cursorPosition" : "13,0",
         "scrollLine" : "0"
     },
     "read_only" : false,
