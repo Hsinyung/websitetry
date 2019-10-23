@@ -26,7 +26,7 @@ title: "資料科學黑客松競賽"
 </form>
 
 <script>
-  const scriptURL = '<SCRIPT URL>'
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbxABwjCpT6VwWyBRaqNYUdDMmApTnQ3R_EmCgn5J5LAh7ky2Ok/exec'
   const form = document.forms['submit-to-google-sheet']
 
   form.addEventListener('submit', e => {
