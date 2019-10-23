@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1502438259",
     "id" : "385F1D2F",
-    "lastKnownWriteTime" : 1570543575,
-    "last_content_update" : 1570543575608,
+    "lastKnownWriteTime" : 1571804251,
+    "last_content_update" : 1571804251059,
     "path" : "C:/RStudio/websitetry/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
-        "cursorPosition" : "5,22",
+        "cursorPosition" : "1,15",
         "scrollLine" : "0"
     },
     "read_only" : false,
